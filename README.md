@@ -9,8 +9,9 @@
   </a>
 </p>
 
-🌱 I’m currently learning React  
-📝 I regularly write articles on https://www.linkedin.com/in/saidanosrat/  
+🌐 **Portfolio:** https://portfolio-rosy-tau-92.vercel.app
+🌱 I'm currently learning Next.js, Express.js, MongoDB and Better Auth
+📝 I regularly write articles on https://www.linkedin.com/in/saidanosrat/
 💬 Ask me about HTML, CSS, JavaScript & TypeScript  
 📫 How to reach me saidanosratorfa2000@gmail.com  
 ⚡ Fun fact : I love making DIY home décor and creative crafts.  
